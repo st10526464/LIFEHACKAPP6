@@ -8,3 +8,14 @@ The QuizActivity is the core component of the application, where the main logic 
 The ScoreActivity retrieves this data using Intent extras and displays the user’s final score along with a performance message that motivates or congratulates the user. It also includes a Review button, which allows the user to navigate to the ReviewActivity. In the ReviewActivity, a loop is used to dynamically generate TextViews for each question and its correct answer, which are added programmatically to a LinearLayout inside a ScrollView, allowing the user to scroll through and review all content. This demonstrates the use of loops, dynamic UI creation, and layouts.
 
 Throughout the application, logging is implemented using Log.d statements to track important events such as activity creation, button clicks, user answers, and score updates. This helps with debugging and shows a clear understanding of the app’s execution flow. Additionally, comments are included within the code to explain the purpose of different sections, and references are provided where external resources, such as online tutorials or documentation, were used. Overall, this application demonstrates key Android development concepts, including activities, intents, arrays, loops, conditional statements, user interaction, UI design, logging, and structured program flow                                                    
+
+
+REFERENCE 
+Android Studio (2024). Android Studio and SDK tools. [online] Android Developers. Available at: https://developer.android.com/studio.
+
+ Social Circle Dental. (n.d.). Boost Your Mood by Smiling and Laughing. [online] Available at: http://www.socialcircledental.com/blog/boost-your-mood-by-smiling-and-laughing.
+
+whitecoat (2020). What is Brain Science? [online] Regional Neurological Associates. Available at: https://regionalneurological.com/what-is-brain-science/.
+
+
+
