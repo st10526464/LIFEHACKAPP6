@@ -1,3 +1,6 @@
 # LIFEHACKAPP6
 YOUTUBE LINK : https://youtube.com/shorts/8e-gK8gicPA?feature=share
-REFERENCE:                                                                                                                                                          1. Android Developers. (2019). Android Developers. [online] Available at: https://developer.android.com.www.youtube.com. (n.d.).                                    2. YouTube. [online] Available at: https://www.youtube.com/watch?v=ABC123                                                                                           3. whitecoat (2020). What is Brain Science? [online] Regional Neurological Associates. Available at: https://regionalneurological.com/what-is-brain-science/.
+REFERENCE:                                                                                                                                                          
+1. Android Developers. (2019). Android Developers. [online] Available at: https://developer.android.com.www.youtube.com. (n.d.).
+2. 2. YouTube. [online] Available at: https://www.youtube.com/watch?v=ABC123
+3.whitecoat (2020). What is Brain Science? [online] Regional Neurological Associates. Available at: https://regionalneurological.com/what-is-brain-science/.
